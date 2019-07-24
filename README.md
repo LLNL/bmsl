@@ -1,4 +1,4 @@
-# bmsl
+# BMSL 
 Codes for the "Bayesian Multitask with Structure Learning" (BMSL) model.
 
 # Repository content
