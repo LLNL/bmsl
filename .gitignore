@@ -1,0 +1,7 @@
+__pycache__
+outputs/*
+.DS_Store
+datasets/ADNIMTL.py
+datasets/data_files/*
+experiments/experiment_adni.py
+
